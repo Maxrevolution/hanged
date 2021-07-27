@@ -1,0 +1,12 @@
+{
+  "name": "hanged",
+  "version": "0.0.1",
+  "description": "this is a guessing game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "author": "Maximo Servat",
+  "license": "ISC"
+}
